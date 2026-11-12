@@ -1,0 +1,20 @@
+# Environnement Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Fichiers générés par l'analyse
+train_traite.csv
+test_traite.csv
+*.png
+*.jpg
+*.jpeg
+
+# Fichiers locaux des notebooks
+.ipynb_checkpoints/
+
+# Configuration et fichiers temporaires
+.env
+*.log
